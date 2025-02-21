@@ -45,3 +45,6 @@ A collection of **real-world projects** leveraging **data analytics, visualizati
 - Identified factors influencing **customer purchasing decisions** through data-driven insights.  
 - Provided **marketing and pricing recommendations** to optimize sales and boost revenue.  
 
+
+
+##linkedin: https://www.linkedin.com/in/simran-dhavade/
