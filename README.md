@@ -1,4 +1,4 @@
-
+Simran's Portfolio
 # Data-Driven Marketing & Analytics Projects  
 
 A collection of **real-world projects** leveraging **data analytics, visualization, and predictive modeling** to uncover insights, optimize strategies, and drive impactful business decisions.  
