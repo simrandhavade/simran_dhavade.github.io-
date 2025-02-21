@@ -6,7 +6,7 @@ A collection of **real-world projects** leveraging **data analytics, visualizati
 ---
 
 ## Health & Lifestyle Analysis  
-![Health & Lifestyle Analysis](https://simran_dhavade.github.io/portfolio/health_lifestyle_image.png) 
+![Health & Lifestyle Analysis](portfolio/health_lifestyle_image.png) 
 
 - Conducted a **comprehensive study** on lifestyle habits affecting **health outcomes**.  
 - Used **predictive modeling** to assess the impact of **diet, exercise, and sleep patterns**.  
@@ -16,7 +16,7 @@ A collection of **real-world projects** leveraging **data analytics, visualizati
 ---
 
 ## Zomato Sales & Customer Trends Analysis  
-![Zomato Sales & Customer Trends](https://simran_dhavade.github.io/portfolio/zomato_analysis_image.png)  
+![Zomato Sales & Customer Trends](portfolio/zomato_analysis_image.png)  
 
 - Analyzed **millions of food orders** to uncover trends in **dining preferences and peak demand times**.  
 - Created a **Power BI dashboard** to monitor restaurant performance across different locations.  
@@ -25,7 +25,7 @@ A collection of **real-world projects** leveraging **data analytics, visualizati
 ---
 
 ## Predicting Student Success: A Data-Driven Approach  
-![Predicting Student Success](https://simran_dhavade.github.io/portfolio/student_success_image.jpg)  
+![Predicting Student Success](portfolio/student_success_image.jpg)  
 
 - Built a **predictive model** that improved **grade predictability by 35%** using **SAS Enterprise Miner**.  
 - Analyzed **demographic and academic data** to understand factors influencing student performance.  
@@ -36,8 +36,8 @@ A collection of **real-world projects** leveraging **data analytics, visualizati
 
 ## Retail & Beverage Market Trends  
 ### **Consumer Preferences & Sales Performance**  
-![Retail & Beverage Market - Consumer Trends](https://simran_dhavade.github.io/portfolio/retail_beverage_1.png)  
-![Retail & Beverage Market - Sales Insights](https://simran_dhavade.github.io/portfolio/retail_beverage_2.png)  
+![Retail & Beverage Market - Consumer Trends](portfolio/retail_beverage_1.png)  
+![Retail & Beverage Market - Sales Insights](portfolio/retail_beverage_2.png)  
 
 - Conducted an in-depth **market analysis** of beverage sales trends and consumer preferences.  
 - Built **interactive dashboards** to track **market share, pricing strategies, and brand loyalty**.  
