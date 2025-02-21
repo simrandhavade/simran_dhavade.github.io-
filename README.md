@@ -16,7 +16,7 @@ A collection of **real-world projects** leveraging **data analytics, visualizati
 ---
 
 ## Zomato Sales & Customer Trends Analysis  
-![Zomato Sales & Customer Trends](path/to/zomato_analysis_image.png)  
+![Zomato Sales & Customer Trends](https://simran_dhavade.github.io/portfolio/zomato_analysis_image.png)  
 
 - Analyzed **millions of food orders** to uncover trends in **dining preferences and peak demand times**.  
 - Created a **Power BI dashboard** to monitor restaurant performance across different locations.  
