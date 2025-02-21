@@ -16,12 +16,13 @@ A collection of **real-world projects** leveraging **data analytics, visualizati
 ---
 
 ## Zomato Sales & Customer Trends Analysis  
-![Zomato Sales & Customer Trends](portfolio/zomato_analysis_image.png)  
+![Zomato Sales & Customer Trends](portfolio/zomato_final.png)  
 
 - Analyzed **millions of food orders** to uncover trends in **dining preferences and peak demand times**.  
 - Created a **Power BI dashboard** to monitor restaurant performance across different locations.  
 - Provided **data-backed recommendations** for **menu optimization and customer engagement strategies**.  
-- Identified the impact of **seasonality, discounts, and marketing campaigns** on revenue growth.  
+- Identified the impact of **seasonality, discounts, and marketing campaigns** on revenue growth.
+  
 ---
 
 ## Predicting Student Success: A Data-Driven Approach  
