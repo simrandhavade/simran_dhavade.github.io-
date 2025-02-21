@@ -47,4 +47,6 @@ A collection of **real-world projects** leveraging **data analytics, visualizati
 
 
 
-##linkedin: https://www.linkedin.com/in/simran-dhavade/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/simran-dhavade/)
+
